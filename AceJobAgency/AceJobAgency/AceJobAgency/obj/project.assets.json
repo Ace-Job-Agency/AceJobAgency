@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joonj\\Desktop\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency.csproj",
+      "projectUniqueName": "C:\\Users\\joonj\\Desktop\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency.csproj",
       "projectName": "AceJobAgency",
-      "projectPath": "C:\\Users\\joonj\\Desktop\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency.csproj",
+      "projectPath": "C:\\Users\\joonj\\Desktop\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency.csproj",
       "packagesPath": "C:\\Users\\joonj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joonj\\Desktop\\AceJobAgency\\AceJobAgency\\AceJobAgency\\obj\\",
+      "outputPath": "C:\\Users\\joonj\\Desktop\\AceJobAgency\\AceJobAgency\\AceJobAgency\\AceJobAgency\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joonj\\AppData\\Roaming\\NuGet\\NuGet.Config",
